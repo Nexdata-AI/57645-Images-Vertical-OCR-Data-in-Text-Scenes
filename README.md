@@ -3,7 +3,7 @@
 ## Description
 57,645 Images - Vertical OCR Data in Text Scenes. The collecting scenes of this dataset include street scenes, plaques, billboards, posters, decorations, art lettering, magazine covers etc. The language distribution includes Chinese and a few English. In this dataset, vertical -level rectangular bounding box (polygonal bounding box, parallelogram bounding box) annotation and transcription for the texts; non-vertical rectangular bounding box (polygonal bounding box, parallelogram bounding box) annotation and transcription for the texts. This dataset can be used for tasks such as multiple vertical text scenes OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1226?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1226?source=Github
 
 
 ## Data size
